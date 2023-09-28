@@ -21,7 +21,7 @@ I love coding and contributing to open-source projects.
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=gedomech&show_icons=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=GEDomech&show_icons=true)
 
 ## 📝 Latest Blog Posts
 
