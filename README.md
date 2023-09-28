@@ -12,7 +12,7 @@ _Artificial Intelligence and Machine Learning Specialization, PUC-Rio, 2018.
 <!--Pontifical Catholic University of Rio de Janeiro ()-->
 
 
-**BACHELOR OF SCIENCE (B.S.), Biomedical Engineering**
+**BACHELOR OF SCIENCE (B.S.), BIOMEDICAL ENGINEERING**
 
 _Technological University Jose Antonio Echeverria (CUJAE), 2012.
 
