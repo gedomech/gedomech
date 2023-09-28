@@ -15,9 +15,9 @@ I love coding and contributing to open-source projects.
 
 * [AWS Certified DevOps Engineer - Professional (Amazon Web Services)](images/tensorflow-developer-certificate.png)
 * [Amazon Web Services Developer - Associate (Amazon Web Services)](images/machine-learning.png)
-* [Amazon Web Services Solutions Architect Associate (Amazon Web Services)]
+* [Amazon Web Services Solutions Architect Associate (Amazon Web Services)]()
 * [Cisco Certified Network Associate (CCNA - CISCO)](images/developing-apps-java-app-engine.png)
-* [iboss Cloud Core Accreditation (iBoss)]--(images/mobile-web-development.png)
+* [iboss Cloud Core Accreditation (iBoss)](images/mobile-web-development.png)
 
 ## 📊 GitHub Stats
 
