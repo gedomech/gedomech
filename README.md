@@ -36,7 +36,7 @@ I love coding and contributing to open-source projects.
 - [Project 2](URL to Project 2)
 - [Project 3](URL to Project 3)
 
-Feel free to reach out and connect with me on ![LinkedIn](https://www.linkedin.com/in/gedomech/). Let's collaborate and make the world a better place through technology! 🚀
+Feel free to reach out and connect with me on [LinkedIn](https://www.linkedin.com/in/gedomech/). Let's collaborate and make the world a better place through technology! 🚀
 
 
 <!--
