@@ -1,7 +1,5 @@
 ## Hey! 👋
 
-# Hello, World! 👋
-
 I'm Your Name, a passionate [Your Profession] from [Your Location]. I love coding and contributing to open-source projects. 
 🌱 I'm currently learning [Technologies or Skills you're learning].
 💼 I'm currently working at [Your Current Job/Project].
