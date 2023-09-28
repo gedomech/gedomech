@@ -41,22 +41,22 @@ _Technological University Jose Antonio Echeverria (CUJAE), 2012.
 * NetSysAdmin: AD, LAN/WAN, TCP/IP, TLS, Okta, iboss, Check Point Firewall,  Cisco Meraki,  MDM (Jamf Pro)
 * CI/CD Tools: Jira/Confluence, Git, Maven, Junit, Terraform, Ansible, Docker, K8, Jenkins, ELK, CodeDeploy, Kustomize, Flux
 * Core Competencies: Agile, GitOps, DataOps, AIOps, DevSecOps, MLOps, IaC, Configuration Management, IaaS
-
+<!--
 ## 📊 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=GEDomech&show_icons=true)
 
-<!--## 📝 Latest Blog Posts
+## 📝 Latest Blog Posts
 
 - [Blog Post 1 Title](URL to Blog Post 1)
-- [Blog Post 2 Title](URL to Blog Post 2)-->
+- [Blog Post 2 Title](URL to Blog Post 2)
 
-<!--// TODO - tailor with AWS projects-->
+<!--// TODO - tailor with AWS projects
 ## 🛠️ My Projects
 
 - [Project 1](URL to Project 1)
 - [Project 2](URL to Project 2)
-- [Project 3](URL to Project 3)
+- [Project 3](URL to Project 3)-->
 
 
  📫 I love connecting with new people; feel free to reach out and connect with me on [LinkedIn](https://www.linkedin.com/in/gedomech/) or [Twitter](https://twitter.com/gedomech). 
