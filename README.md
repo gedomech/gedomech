@@ -24,10 +24,10 @@ _Technological University Jose Antonio Echeverria (CUJAE), 2012.
 * [Amazon Web Services Solutions Architect Associate (Amazon Web Services)]()
 * [Cisco Certified Network Associate (CCNA - CISCO)](images/developing-apps-java-app-engine.png)
 * [iboss Cloud Core Accreditation (iBoss)](images/mobile-web-development.png)
-* Design Thinking | Abacus Team Inc
-Foundations of DevOps II: Ecosystem, Architecture and Continuous SDLC | University of Toronto
-Foundations of DevOps I: Principles and Practices | University of Toronto
-Robotic and Intelligent Process Automation | University of Toronto
+* [Design Thinking (Abacus Team Inc.)]()
+* [Foundations of DevOps II: Ecosystem, Architecture and Continuous SDLC (University of Toronto)]
+* [Foundations of DevOps I: Principles and Practices | University of Toronto
+* [Robotic and Intelligent Process Automation (University of Toronto)]
 
 ### Skills
 
