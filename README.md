@@ -2,13 +2,7 @@
 
 My name is Guillermo, a passionate DevOps Engineer focused on helping companies streamline their operations and enhance system reliability. 
 
-I love coding and contributing to open-source projects. 
-🌱 I'm currently learning [Technologies or Skills you're learning].
-💼 I'm currently working at [Your Current Job/Project].
-📚 I'm constantly exploring new technologies and learning new things.
-
-
-![Tech 1](URL to Tech 1 Image)<br />
+I'm eager to find opportunities where I can lead DevOps initiatives, drive process automation, and foster a culture of continuous improvement.
 
 **PROFESSIONAL TRAININGS AND CERTIFICATIONS**
 
@@ -33,7 +27,8 @@ I love coding and contributing to open-source projects.
 - [Project 2](URL to Project 2)
 - [Project 3](URL to Project 3)
 
-Feel free to reach out and connect with me on [LinkedIn](https://www.linkedin.com/in/gedomech/) or [Twitter](https://twitter.com/gedomech). Let's collaborate and make the world a better place through technology! 🚀
+
+I love connecting with new people; feel free to reach out and connect with me on [LinkedIn](https://www.linkedin.com/in/gedomech/) or [Twitter](https://twitter.com/gedomech). 
 
 
 <!--
