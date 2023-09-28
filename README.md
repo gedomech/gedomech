@@ -47,6 +47,10 @@ _Technological University Jose Antonio Echeverria (CUJAE), 2012.
 
 ![Guillermo GitHub stats](https://github-readme-stats.vercel.app/api?username=gedomech&count_private=true&show_icons=true&theme=dark&title_color=00BB2D&hide=stars,prs,issues,contribs)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmilodenisglez&layout=compact&langs_count=5&hide=html,css,makefile&count_private=true&show_icons=true&theme=dark&title_color=00BB2D)](https://github.com/anuraghazra/github-readme-stats)
+
+# 🔭Actions
+
 <!--![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=gedomech&show_icons=true)
 
 
