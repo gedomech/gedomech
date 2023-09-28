@@ -16,7 +16,7 @@ _Artificial Intelligence and Machine Learning Specialization, PUC-Rio, 2018.
 
 _Technological University Jose Antonio Echeverria (CUJAE), 2012.
 
-// TODO - add links to the trainings and certifications
+<!--//  TODO - add links to the trainings and certifications-->
 **PROFESSIONAL TRAININGS AND CERTIFICATIONS**
 
 * [AWS Certified DevOps Engineer - Professional (Amazon Web Services)](images/tensorflow-developer-certificate.png)
@@ -29,7 +29,7 @@ _Technological University Jose Antonio Echeverria (CUJAE), 2012.
 * [Foundations of DevOps I: Principles and Practices (University of Toronto)]()
 * [Robotic and Intelligent Process Automation (University of Toronto)]()
 
-// TODO - summarize key skills
+<!--//  TODO - summarize key skills -->
 ### Skills
 
 * Languages: English, French, Portuguese and Spanish
@@ -51,7 +51,7 @@ _Technological University Jose Antonio Echeverria (CUJAE), 2012.
 - [Blog Post 1 Title](URL to Blog Post 1)
 - [Blog Post 2 Title](URL to Blog Post 2)-->
 
-// TODO - tailor with AWS projects
+<!--// TODO - tailor with AWS projects-->
 ## 🛠️ My Projects
 
 - [Project 1](URL to Project 1)
