@@ -23,7 +23,6 @@ _Technological University Jose Antonio Echeverria (CUJAE), 2012.
 * [Amazon Web Services Developer - Associate (Amazon Web Services)](https://www.credly.com/badges/b72624c2-90f9-4fa2-831b-70c67b73e847/public_url)
 * [Amazon Web Services Solutions Architect Associate (Amazon Web Services)](https://www.credly.com/badges/17dedb1b-3245-4876-adf7-1eaabafb0b48/public_url)
 * [Cisco Certified Network Associate (CCNA - CISCO)](https://www.credly.com/badges/86eca1f3-9ff2-4a03-9b47-6f72368bbdb6/public_url)
-* [iboss Cloud Core Accreditation (iBoss)](images/mobile-web-development.png)
 * [Design Thinking (Abacus Team Inc.)]()
 * [Foundations of DevOps II: Ecosystem, Architecture and Continuous SDLC (University of Toronto)](https://micro-credential.learn.utoronto.ca/check/B4F21BBB6C00C4487BEA3E3453B14C0A6A0D520602F9CA6FB9ED6822E0523328QWprSlZxblAwNUlZak5wNGI4VlI0TWxTalY3RUpYbm42ZHd1TkhSVXNFU0RDUGky)
 * [Foundations of DevOps I: Principles and Practices (University of Toronto)](https://micro-credential.learn.utoronto.ca/check/E64DD02253BB6E9867DA9A2D5CCED979F57B87E1D7C60B142FC25C0A45DCF850Z3gxdXltMld2MnpsRUhoTU1BT2ttQ0ZIWnk3a010cHQvMDVUUTNVME9qdyt6Um1L)
@@ -34,7 +33,7 @@ _Technological University Jose Antonio Echeverria (CUJAE), 2012.
 ### Skills
 
 <!--* Languages: English, French, Portuguese and Spanish -->
-* Programming: Bash, Python, PS, Java, JS, C/C++, Matlab, R, NodeJS, AWS CDK, AWS SDK
+* Programming: Bash, Python, PowerShell, Java, JS, C/C++, Matlab, R, NodeJS, AWS CDK, AWS SDK
 * Web Tech: HTML, XML, JSON, YAML, Tomcat, Nginx
 * Observability: MS SQL Server, MySQL, Oracle, DynamoDB, MongoDB, PostgreSQL, Redis
 * OS/Platforms: AWS, Azure, Windows/Windows Server, UNIX (CentOS/RedHat, Ubuntu, Debian)
