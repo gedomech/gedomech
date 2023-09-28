@@ -57,6 +57,8 @@ Robotic and Intelligent Process Automation | University of Toronto
 - [Project 3](URL to Project 3)
 
 
+
+
 I love connecting with new people; feel free to reach out and connect with me on [LinkedIn](https://www.linkedin.com/in/gedomech/) or [Twitter](https://twitter.com/gedomech). 
 
 
