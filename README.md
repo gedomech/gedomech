@@ -42,10 +42,12 @@ _Technological University Jose Antonio Echeverria (CUJAE), 2012.
 * CI/CD Tools: Jira/Confluence, Git, Maven, Junit, Terraform, Ansible, Docker, K8, Jenkins, ELK, CodeDeploy, Kustomize, Flux
 * Core Competencies: Agile, GitOps, DataOps, AIOps, DevSecOps, MLOps, IaC, Configuration Management, IaaS
 
-<!--
+
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=gedomech&show_icons=true)
+![Guillermo GitHub stats](https://github-readme-stats.vercel.app/api?username=gedomech&count_private=true&show_icons=true&theme=dark&title_color=00BB2D&hide=stars,prs,issues,contribs)
+
+<!--![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=gedomech&show_icons=true)
 
 
 ## 📝 Latest Blog Posts
