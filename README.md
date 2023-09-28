@@ -20,7 +20,7 @@ _Technological University Jose Antonio Echeverria (CUJAE), 2012.
 **PROFESSIONAL TRAININGS AND CERTIFICATIONS**
 
 * [AWS Certified DevOps Engineer - Professional (Amazon Web Services)](https://www.credly.com/badges/82d617bf-9f5c-41eb-a824-7dccf0abc1fd/public_url)
-* [Amazon Web Services Developer - Associate (Amazon Web Services)](images/machine-learning.png)
+* [Amazon Web Services Developer - Associate (Amazon Web Services)](https://www.credly.com/badges/b72624c2-90f9-4fa2-831b-70c67b73e847/public_url)
 * [Amazon Web Services Solutions Architect Associate (Amazon Web Services)]()
 * [Cisco Certified Network Associate (CCNA - CISCO)](images/developing-apps-java-app-engine.png)
 * [iboss Cloud Core Accreditation (iBoss)](images/mobile-web-development.png)
