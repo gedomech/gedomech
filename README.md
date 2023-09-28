@@ -27,7 +27,7 @@ _Technological University Jose Antonio Echeverria (CUJAE), 2012.
 * [Design Thinking (Abacus Team Inc.)]()
 * [Foundations of DevOps II: Ecosystem, Architecture and Continuous SDLC (University of Toronto)]()
 * [Foundations of DevOps I: Principles and Practices (University of Toronto)]()
-* [Robotic and Intelligent Process Automation (University of Toronto)]()
+* [Robotic and Intelligent Process Automation (University of Toronto)](https://www.credly.com/badges/8f358834-d87d-4cc8-a2a6-d0c3c3e59839/public_url)
 
 <!--//  TODO - summarize key skills -->
 ### Skills
