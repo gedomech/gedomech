@@ -8,7 +8,7 @@ I'm Your Name, a passionate [Your Profession] from [Your Location]. I love codin
 📚 I'm constantly exploring new technologies and learning new things.
 
 
-![Tech 1](URL to Tech 1 Image)
+![Tech 1](URL to Tech 1 Image)\n
 ![Tech 2](URL to Tech 2 Image)
 ![Tech 3](URL to Tech 3 Image)
 ![Tech 4](URL to Tech 4 Image)
