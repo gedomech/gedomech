@@ -9,18 +9,16 @@ I'm Your Name, a passionate [Your Profession] from [Your Location]. I love codin
 
 
 ![Tech 1](URL to Tech 1 Image)<br />
-![Tech 2](URL to Tech 2 Image)
-![Tech 3](URL to Tech 3 Image)
-![Tech 4](URL to Tech 4 Image)
-![Tech 5](URL to Tech 5 Image)
+![Tech 2](URL to Tech 2 Image)<br />
+![Tech 3](URL to Tech 3 Image)<br />
+![Tech 4](URL to Tech 4 Image)<br />
+![Tech 5](URL to Tech 5 Image)<br />
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](URL to LinkedIn Profile)](https://www.linkedin.com/in/gedomech/)
-
-[![Twitter](URL to Twitter Profile)](https://twitter.com/gedomech)
-
-[![Portfolio](URL to Portfolio Website)](https://www.gedomech.com/)
+[![LinkedIn](URL to LinkedIn Profile)](https://www.linkedin.com/in/gedomech/)<br />
+[![Twitter](URL to Twitter Profile)](https://twitter.com/gedomech)<br />
+[![Portfolio](URL to Portfolio Website)](https://www.gedomech.com/)<br />
 
 ## 📊 GitHub Stats
 
