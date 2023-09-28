@@ -10,9 +10,6 @@ I love coding and contributing to open-source projects.
 
 ![Tech 1](URL to Tech 1 Image)<br />
 ![Tech 2](URL to Tech 2 Image)<br />
-![Tech 3](URL to Tech 3 Image)<br />
-![Tech 4](URL to Tech 4 Image)<br />
-![Tech 5](URL to Tech 5 Image)<br />
 
 **PROFESSIONAL TRAININGS AND CERTIFICATIONS**
 
