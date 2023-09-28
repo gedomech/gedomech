@@ -4,6 +4,17 @@ My name is Guillermo, a passionate DevOps Engineer focused on helping companies 
 
 I'm eager to find opportunities where I can lead DevOps initiatives, drive process automation, and foster a culture of continuous improvement.
 
+### EDUCATION
+
+**MASTER OF SCIENCE (M.Sc.), ELECTRICAL ENGINEERING**
+_Artificial Intelligence and Machine Learning Specialization, PUC-Rio, 2018.
+<!--Pontifical Catholic University of Rio de Janeiro ()-->
+
+
+**BACHELOR OF SCIENCE (B.S.), Biomedical Engineering**
+_Technological University Jose Antonio Echeverria (CUJAE), 2012.
+
+
 **PROFESSIONAL TRAININGS AND CERTIFICATIONS**
 
 * [AWS Certified DevOps Engineer - Professional (Amazon Web Services)](images/tensorflow-developer-certificate.png)
