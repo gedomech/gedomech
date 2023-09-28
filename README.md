@@ -1,8 +1,8 @@
 ## Hey! 👋
 
-My name is Guillermo, a passionate DevOps Engineer focused on helping companies streamline their operations and enhance system reliability. 
+My name is Guillermo, a passionate DevOps Engineer focused on assisting companies in optimizing their operations and bolstering system reliability.
 
-I'm eager to find opportunities where I can lead DevOps initiatives, drive process automation, and foster a culture of continuous improvement.
+I'm eager to explore opportunities where I can lead DevOps initiatives, drive process automation, and foster a culture of continuous improvement.
 
 ### EDUCATION
 
@@ -16,7 +16,7 @@ _Artificial Intelligence and Machine Learning Specialization, PUC-Rio, 2018.
 
 _Technological University Jose Antonio Echeverria (CUJAE), 2012.
 
-
+// TODO - add links to the trainings and certifications
 **PROFESSIONAL TRAININGS AND CERTIFICATIONS**
 
 * [AWS Certified DevOps Engineer - Professional (Amazon Web Services)](images/tensorflow-developer-certificate.png)
@@ -29,6 +29,7 @@ _Technological University Jose Antonio Echeverria (CUJAE), 2012.
 * [Foundations of DevOps I: Principles and Practices (University of Toronto)]()
 * [Robotic and Intelligent Process Automation (University of Toronto)]()
 
+// TODO - summarize key skills
 ### Skills
 
 * Languages: English, French, Portuguese and Spanish
@@ -50,6 +51,7 @@ _Technological University Jose Antonio Echeverria (CUJAE), 2012.
 - [Blog Post 1 Title](URL to Blog Post 1)
 - [Blog Post 2 Title](URL to Blog Post 2)-->
 
+// TODO - tailor with AWS projects
 ## 🛠️ My Projects
 
 - [Project 1](URL to Project 1)
@@ -57,9 +59,7 @@ _Technological University Jose Antonio Echeverria (CUJAE), 2012.
 - [Project 3](URL to Project 3)
 
 
-
-
-I love connecting with new people; feel free to reach out and connect with me on [LinkedIn](https://www.linkedin.com/in/gedomech/) or [Twitter](https://twitter.com/gedomech). 
+ 📫 I love connecting with new people; feel free to reach out and connect with me on [LinkedIn](https://www.linkedin.com/in/gedomech/) or [Twitter](https://twitter.com/gedomech). 
 
 
 <!--
