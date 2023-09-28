@@ -9,7 +9,6 @@ I love coding and contributing to open-source projects.
 
 
 ![Tech 1](URL to Tech 1 Image)<br />
-![Tech 2](URL to Tech 2 Image)<br />
 
 **PROFESSIONAL TRAININGS AND CERTIFICATIONS**
 
