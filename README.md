@@ -3,12 +3,10 @@
 # Hello, World! 👋
 
 I'm Your Name, a passionate [Your Profession] from [Your Location]. I love coding and contributing to open-source projects. 
-
 🌱 I'm currently learning [Technologies or Skills you're learning].
 💼 I'm currently working at [Your Current Job/Project].
 📚 I'm constantly exploring new technologies and learning new things.
 
-## 🔧 Technologies & Tools
 
 ![Tech 1](URL to Tech 1 Image)
 ![Tech 2](URL to Tech 2 Image)
@@ -19,7 +17,9 @@ I'm Your Name, a passionate [Your Profession] from [Your Location]. I love codin
 ## 🌐 Connect with Me
 
 [![LinkedIn](URL to LinkedIn Profile)](https://www.linkedin.com/in/gedomech/)
+
 [![Twitter](URL to Twitter Profile)](https://twitter.com/gedomech)
+
 [![Portfolio](URL to Portfolio Website)](https://www.gedomech.com/)
 
 ## 📊 GitHub Stats
