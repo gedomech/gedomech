@@ -14,12 +14,6 @@ I love coding and contributing to open-source projects.
 ![Tech 4](URL to Tech 4 Image)<br />
 ![Tech 5](URL to Tech 5 Image)<br />
 
-## 🌐 Connect with Me
-
-[![LinkedIn](URL to LinkedIn Profile)](https://www.linkedin.com/in/gedomech/)<br />
-[![Twitter](URL to Twitter Profile)](https://twitter.com/gedomech)<br />
-[![Portfolio](URL to Portfolio Website)](https://www.gedomech.com/)<br />
-
 ## 📊 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=gedomech&show_icons=true)
@@ -36,7 +30,7 @@ I love coding and contributing to open-source projects.
 - [Project 2](URL to Project 2)
 - [Project 3](URL to Project 3)
 
-Feel free to reach out and connect with me on [LinkedIn](https://www.linkedin.com/in/gedomech/). Let's collaborate and make the world a better place through technology! 🚀
+Feel free to reach out and connect with me on [LinkedIn](https://www.linkedin.com/in/gedomech/) or [Twitter](https://twitter.com/gedomech). Let's collaborate and make the world a better place through technology! 🚀
 
 
 <!--
