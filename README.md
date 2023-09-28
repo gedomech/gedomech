@@ -27,7 +27,6 @@ I love coding and contributing to open-source projects.
 
 - [Blog Post 1 Title](URL to Blog Post 1)
 - [Blog Post 2 Title](URL to Blog Post 2)
-- [Blog Post 3 Title](URL to Blog Post 3)
 
 ## 🛠️ My Projects
 
