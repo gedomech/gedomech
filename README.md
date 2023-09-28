@@ -14,6 +14,14 @@ I love coding and contributing to open-source projects.
 ![Tech 4](URL to Tech 4 Image)<br />
 ![Tech 5](URL to Tech 5 Image)<br />
 
+**PROFESSIONAL TRAININGS AND CERTIFICATIONS**
+
+* [AWS Certified DevOps Engineer - Professional (Amazon Web Services)](images/tensorflow-developer-certificate.png)
+* [Amazon Web Services Developer - Associate (Amazon Web Services)](images/machine-learning.png)
+* [Amazon Web Services Solutions Architect Associate (Amazon Web Services)](images/tensorflow-in-practice.png)
+* [Cisco Certified Network Associate (CCNA - CISCO)](images/developing-apps-java-app-engine.png)
+* [iboss Cloud Core Accreditation (iBoss)]--(images/mobile-web-development.png)
+
 ## 📊 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=gedomech&show_icons=true)
