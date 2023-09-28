@@ -33,7 +33,7 @@ _Technological University Jose Antonio Echeverria (CUJAE), 2012.
 ### Skills
 
 <!--* Languages: English, French, Portuguese and Spanish -->
-* Programming: Bash, Python, PowerShell, Java, JS, C/C++, Matlab, R, NodeJS, AWS CDK, AWS SDK
+* **Programming**: Bash, Python, PowerShell, Java, JS, C/C++, Matlab, R, NodeJS, AWS CDK, AWS SDK
 * Web Tech: HTML, XML, JSON, YAML, Tomcat, Nginx
 * Observability: MS SQL Server, MySQL, Oracle, DynamoDB, MongoDB, PostgreSQL, Redis
 * OS/Platforms: AWS, Azure, Windows/Windows Server, UNIX (CentOS/RedHat, Ubuntu, Debian)
