@@ -19,7 +19,7 @@ _Technological University Jose Antonio Echeverria (CUJAE), 2012.
 <!--//  TODO - add links to the trainings and certifications-->
 **PROFESSIONAL TRAININGS AND CERTIFICATIONS**
 
-* [AWS Certified DevOps Engineer - Professional (Amazon Web Services)](images/tensorflow-developer-certificate.png)
+* [AWS Certified DevOps Engineer - Professional (Amazon Web Services)](https://www.credly.com/badges/82d617bf-9f5c-41eb-a824-7dccf0abc1fd/public_url)
 * [Amazon Web Services Developer - Associate (Amazon Web Services)](images/machine-learning.png)
 * [Amazon Web Services Solutions Architect Associate (Amazon Web Services)]()
 * [Cisco Certified Network Associate (CCNA - CISCO)](images/developing-apps-java-app-engine.png)
