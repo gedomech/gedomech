@@ -32,7 +32,7 @@ _Technological University Jose Antonio Echeverria (CUJAE), 2012.
 <!--//  TODO - summarize key skills -->
 ### Skills
 
-* Languages: English, French, Portuguese and Spanish
+<!--* Languages: English, French, Portuguese and Spanish -->
 * Programming: Bash, Python, PS, Java, JS, C/C++, Matlab, R, NodeJS, AWS CDK, AWS SDK
 * Web Tech: HTML, XML, JSON, YAML, Tomcat, Nginx
 * Observability: MS SQL Server, MySQL, Oracle, DynamoDB, MongoDB, PostgreSQL, Redis
