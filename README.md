@@ -25,8 +25,8 @@ _Technological University Jose Antonio Echeverria (CUJAE), 2012.
 * [Cisco Certified Network Associate (CCNA - CISCO)](https://www.credly.com/badges/86eca1f3-9ff2-4a03-9b47-6f72368bbdb6/public_url)
 * [iboss Cloud Core Accreditation (iBoss)](images/mobile-web-development.png)
 * [Design Thinking (Abacus Team Inc.)]()
-* [Foundations of DevOps II: Ecosystem, Architecture and Continuous SDLC (University of Toronto)]()
-* [Foundations of DevOps I: Principles and Practices (University of Toronto)]()
+* [Foundations of DevOps II: Ecosystem, Architecture and Continuous SDLC (University of Toronto)](https://micro-credential.learn.utoronto.ca/check/B4F21BBB6C00C4487BEA3E3453B14C0A6A0D520602F9CA6FB9ED6822E0523328QWprSlZxblAwNUlZak5wNGI4VlI0TWxTalY3RUpYbm42ZHd1TkhSVXNFU0RDUGky)
+* [Foundations of DevOps I: Principles and Practices (University of Toronto)](https://micro-credential.learn.utoronto.ca/check/E64DD02253BB6E9867DA9A2D5CCED979F57B87E1D7C60B142FC25C0A45DCF850Z3gxdXltMld2MnpsRUhoTU1BT2ttQ0ZIWnk3a010cHQvMDVUUTNVME9qdyt6Um1L)
 * [Robotic and Intelligent Process Automation (University of Toronto)](https://www.credly.com/badges/8f358834-d87d-4cc8-a2a6-d0c3c3e59839/public_url)
 
 <!--//  TODO - summarize key skills -->
