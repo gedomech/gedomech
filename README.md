@@ -44,7 +44,7 @@ _Technological University Jose Antonio Echeverria (CUJAE), 2012.
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=GEDomech&show_icons=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=gedomech&show_icons=true)
 
 <!--
 ## 📝 Latest Blog Posts
