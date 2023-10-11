@@ -51,7 +51,7 @@ _Technological University Jose Antonio Echeverria (CUJAE), 2012.
 <a href="https://www.docker.com" target="_blank"><img align="left" alt="Docker" height="42px" src="https://www.docker.com/wp-content/uploads/2022/01/docker-logo-green_0.png"></a>
 <a href="https://www.hyperledger.org/use/fabric" target="_blank"><img align="left" alt="Hyperledger Fabric" height ="42px" src="/static/fabric_icon.png"></a>
 <a href="https://es.vuejs.org" target="_blank"><img align="left" alt="VueJS" height="42px" src="https://es.vuejs.org/images/logo.png"></a>
-<a href="https://nuxtjs.org" target="_blank"><img align="left" alt="NuxtJS" height="42px" src="https://nuxtjs.org/design-kit/white-text.svg"></a>
+<a href="https://aws.amazon.com" target="_blank"><img align="left" alt="NuxtJS" height="42px" src="/static/aws_icon.png"></a>
 <br>
 <br>
 <br>
