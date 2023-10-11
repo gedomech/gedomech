@@ -32,16 +32,30 @@ _Technological University Jose Antonio Echeverria (CUJAE), 2012.
 <!--//  TODO - summarize key skills -->
 ### Skills
 
-<!--* Languages: English, French, Portuguese and Spanish -->
+* **Languages**: English, French, Portuguese and Spanish -->
 * **Programming**: Bash, Python, PowerShell, Java, JS, C/C++, Matlab, R, NodeJS, AWS CDK, AWS SDK
-* Web Tech: HTML, XML, JSON, YAML, Tomcat, Nginx
-* Observability: MS SQL Server, MySQL, Oracle, DynamoDB, MongoDB, PostgreSQL, Redis
-* OS/Platforms: AWS, Azure, Windows/Windows Server, UNIX (CentOS/RedHat, Ubuntu, Debian)
-* Security: OWASP, Falco, TDIR, Okta, Check Point Firewall, iboss
-* NetSysAdmin: AD, LAN/WAN, TCP/IP, TLS, Okta, iboss, Check Point Firewall,  Cisco Meraki,  MDM (Jamf Pro)
-* CI/CD Tools: Jira/Confluence, Git, Maven, Junit, Terraform, Ansible, Docker, K8, Jenkins, ELK, CodeDeploy, Kustomize, Flux
-* Core Competencies: Agile, GitOps, DataOps, AIOps, DevSecOps, MLOps, IaC, Configuration Management, IaaS
+* **Web Tech**: HTML, XML, JSON, YAML, Tomcat, Nginx
+* **Observability**: MS SQL Server, MySQL, Oracle, DynamoDB, MongoDB, PostgreSQL, Redis
+* **OS/Platforms**: AWS, Azure, Windows/Windows Server, UNIX (CentOS/RedHat, Ubuntu, Debian)
+* **Security**: OWASP, Falco, TDIR, Okta, Check Point Firewall, iboss
+* **NetSysAdmin**: AD, LAN/WAN, TCP/IP, TLS, Okta, iboss, Check Point Firewall,  Cisco Meraki,  MDM (Jamf Pro)
+* **CI/CD Tools**: Jira/Confluence, Git, Maven, Junit, Terraform, Ansible, Docker, K8, Jenkins, ELK, CodeDeploy, Kustomize, Flux
+<!--//  **Core Competencies**: Agile, GitOps, DataOps, AIOps, DevSecOps, MLOps, IaC, Configuration Management, IaaS-->
 
+### 🔨 Core Tools:
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height="42px" src="https://www.python.org/static/img/python-logo-large.c36dccadd999.png?1576869008"></a>
+<a href="https://www.docker.com" target="_blank"><img align="left" alt="Docker" height="42px" src="https://www.docker.com/wp-content/uploads/2022/01/docker-logo-green_0.png"></a>
+<a href="https://www.javascript.com/" target="_blank"> <img align="left" alt="JavaScript" height ="42px" src="/static/js_icon.svg"> </a>
+<a href="https://gomirrors.org" target="_blank"><img align="left" alt="Golang" height="42px" src="/static/golang_icon.svg"></a>
+<!--//  
+<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescript" height="42px" src="/static/ts2_icon.svg"></a>
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height="42px" src="/static/nodejs_icon.svg"></a>
+<a href="https://www.hyperledger.org/use/fabric" target="_blank"><img align="left" alt="Hyperledger Fabric" height ="42px" src="/static/fabric_icon.png"></a>
+<a href="https://es.vuejs.org" target="_blank"><img align="left" alt="VueJS" height="42px" src="https://es.vuejs.org/images/logo.png"></a>
+<a href="https://nuxtjs.org" target="_blank"><img align="left" alt="NuxtJS" height="42px" src="https://nuxtjs.org/design-kit/white-text.svg"></a>-->
+<br>
+<br>
+<br>
 
 ## 📊 GitHub Stats
 
