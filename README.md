@@ -43,7 +43,7 @@ _Technological University Jose Antonio Echeverria (CUJAE), 2012.
 <!--//  **Core Competencies**: Agile, GitOps, DataOps, AIOps, DevSecOps, MLOps, IaC, Configuration Management, IaaS-->
 
 ### 🔨 Core Tools:
-[![](https://skillicons.dev/icons?i=aws,azure,gcp,py,java,cpp,js,nodejs,powershell,bash,docker,kubernetes,ai,tensorflow,pytorch,ansible,git,prometheus,grafana,jenkins,nginx,mysql,dynamodb,postgres,redis,linux,html,mongodb,maven,&theme=dark,&perline=5)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=aws,azure,gcp,py,java,cpp,js,nodejs,powershell,bash,docker,kubernetes,ai,tensorflow,pytorch,ansible,git,prometheus,grafana,jenkins,nginx,mysql,dynamodb,postgres,redis,linux,html,mongodb,maven,&theme=dark)](https://skillicons.dev)
 <!--//  <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height="42px" src="https://www.python.org/static/img/python-logo-large.c36dccadd999.png?1576869008"></a>
 <a href="https://gomirrors.org" target="_blank"><img align="left" alt="Golang" height="42px" src="/static/golang_icon.svg"></a>
 <a href="https://www.javascript.com/" target="_blank"> <img align="left" alt="JavaScript" height ="42px" src="/static/js_icon.svg"> </a>
