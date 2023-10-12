@@ -1,8 +1,18 @@
 ## Hey! 👋
 
-My name is Guillermo, a passionate DevOps Engineer focused on assisting companies in optimizing their operations and bolstering system reliability.
+My name is Guillermo, a passionate DevOps Engineer who is dedicated to assisting companies in optimizing their operations and bolstering system reliability. I'm on the lookout for opportunities where I can take the lead on DevOps initiatives, drive process automation, and nurture a culture of continuous improvement.
 
-I'm eager to explore opportunities where I can lead DevOps initiatives, drive process automation, and foster a culture of continuous improvement.
+My qualifications and achievements include:
+
+Extensive expertise as an AWS-certified DevOps Engineer and Solution Architect, boasting a strong background in cloud infrastructure and automation. I'm skilled at designing and implementing scalable solutions that enhance system reliability and minimize downtime.
+
+I've collaborated closely with development teams to put in place robust security measures and fine-tuning procedures. Through these efforts, we achieved a remarkable 30% reduction in security incidents and a substantial 25% improvement in system performance.
+
+Proficiency in monitoring and alerting systems is another area where I excel. I've reduced mean time to resolution (MTTR) by an impressive 40%, significantly boosting system uptime by 25%.
+
+I bring a high level of expertise in Agile methodologies and cross-functional collaboration. Consistently, my work results in the delivery of high-quality products that surpass customer expectations.
+
+My primary goal is to drive DevOps initiatives, automate processes, and foster a culture of continuous improvement, all in the pursuit of optimizing operations and enhancing system reliability for organizations seeking my expertise.
 
 ### EDUCATION
 
