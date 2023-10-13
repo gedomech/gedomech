@@ -67,6 +67,37 @@ _Technological University Jose Antonio Echeverria (CUJAE), 2012.
 <br>
 <br>
 
+# DevOps Portfolio
+
+Welcome to my DevOps portfolio! Here, you'll find a selection of projects that showcase my expertise in cloud infrastructure, automation, and more. These projects reflect my commitment to delivering high-quality solutions and my passion for continuous improvement.
+
+## Project 1: CI/CD Pipeline Implementation
+- **Description:** Designed and implemented a robust CI/CD pipeline for a web application, reducing deployment time by 50% and increasing team productivity by 25%.
+- **Technologies:** Jenkins, Docker, Kubernetes, GitHub Actions
+<!--// - [Repository Link](#) -->
+
+## Project 2: Infrastructure as Code (IaC) Deployment
+- **Description:** Developed and maintained infrastructure as code (IaC) scripts using Terraform and Ansible, resulting in a 40% reduction in manual configuration errors and improved system reliability.
+- **Technologies:** Terraform, Ansible, AWS, Azure
+
+## Project 3: Cloud Security and Compliance
+- **Description:** Conducted a comprehensive security audit of AWS infrastructure, identified vulnerabilities, and implemented security best practices, achieving a 100% compliance score in the next security audit.
+- **Technologies:** AWS, Security Groups, AWS Config
+
+## Project 4: End-to-End Data Analytics Framework
+- **Description:** Developed an end-to-end data analytics framework using Amazon Redshift, Glue, and Lambda, enabling the business to obtain KPIs faster with reduced costs.
+- **Technologies:** Amazon Redshift, AWS Glue, AWS Lambda
+
+## Project 5: Multi-Cloud Management
+- **Description:** Managed and optimized multi-cloud environments, including AWS and Azure, to ensure cost-efficiency and high availability.
+- **Technologies:** AWS, Azure, Multi-Cloud Management Tools
+
+## Project 6: Agile Process Implementation
+- **Description:** Implemented Agile methodologies and cross-functional collaboration, resulting in faster project delivery times, increased team productivity, and exceeding customer expectations.
+- **Technologies:** Agile Practices, Scrum, Kanban
+
+<!--//  I'm passionate about DevOps and continuously seek ways to enhance system reliability, reduce downtime, and streamline processes. Feel free to explore these projects to get a sense of my skills and capabilities. If you have any questions or would like to collaborate, please reach out to me at [your@email.com].-->
+
 
 ## 📊 GitHub Stats
 
