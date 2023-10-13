@@ -62,26 +62,32 @@ Here, you'll find a selection of projects that showcase my expertise in cloud in
 
 ## 📚 EDUCATION
 
-- 🎓 **Master of Science in Electrical Engineering**
-  - 🏫 PUC-Rio
-  - 📅 Graduated: August 2018
+### 🎓 Academic Degrees
+- 🎓 **Master of Science in Electrical Engineering**<br> - 🏫 PUC-Rio <br> - 📅 Graduated: August 2018
 
-- 🎓 **Bachelor of Science in Biomedical Engineering**
-  - 🏫 ISPJAE
-  - 📅 Graduated: July 2012
+- 🎓 **Bachelor of Science in Biomedical Engineering**<br> - 🏫 ISPJAE <br> - 📅 Graduated: July 2012
 
 <!--//  TODO - add links to the trainings and certifications-->
-**PROFESSIONAL TRAININGS AND CERTIFICATIONS**
+## 🏆 Professional Trainings and Certifications
 
-* [AWS Certified DevOps Engineer - Professional (Amazon Web Services)](https://www.credly.com/badges/82d617bf-9f5c-41eb-a824-7dccf0abc1fd/public_url)
-* [Amazon Web Services Developer - Associate (Amazon Web Services)](https://www.credly.com/badges/b72624c2-90f9-4fa2-831b-70c67b73e847/public_url)
-* [Amazon Web Services Solutions Architect Associate (Amazon Web Services)](https://www.credly.com/badges/17dedb1b-3245-4876-adf7-1eaabafb0b48/public_url)
-* [Cisco Certified Network Associate (CCNA - CISCO)](https://www.credly.com/badges/86eca1f3-9ff2-4a03-9b47-6f72368bbdb6/public_url)
-* [Design Thinking (Abacus Team Inc.)]()
-* [Foundations of DevOps II: Ecosystem, Architecture and Continuous SDLC (University of Toronto)](https://micro-credential.learn.utoronto.ca/check/B4F21BBB6C00C4487BEA3E3453B14C0A6A0D520602F9CA6FB9ED6822E0523328QWprSlZxblAwNUlZak5wNGI4VlI0TWxTalY3RUpYbm42ZHd1TkhSVXNFU0RDUGky)
-* [Foundations of DevOps I: Principles and Practices (University of Toronto)](https://micro-credential.learn.utoronto.ca/check/E64DD02253BB6E9867DA9A2D5CCED979F57B87E1D7C60B142FC25C0A45DCF850Z3gxdXltMld2MnpsRUhoTU1BT2ttQ0ZIWnk3a010cHQvMDVUUTNVME9qdyt6Um1L)
-* [Robotic and Intelligent Process Automation (University of Toronto)](https://www.credly.com/badges/8f358834-d87d-4cc8-a2a6-d0c3c3e59839/public_url)
-* [UiPath Certified Professional Associate RPA Developer (UiRPA)](https://credentials.uipath.com/c36bb510-00bd-4ebe-8f7f-9c5f90f1694c#gs.5qv1xz)
+- **[Foundations of DevOps III: Tools and Applications]()**<br>  - University of Toronto<br>  - Achieved: September 2023
+
+- **[Design Thinking]()**<br>  - Abacus Team Inc.<br>  - Achieved: August 2023
+
+- **[Foundations of DevOps II: Ecosystem, Architecture and Continuous SDLC](https://micro-credential.learn.utoronto.ca/check/B4F21BBB6C00C4487BEA3E3453B14C0A6A0D520602F9CA6FB9ED6822E0523328QWprSlZxblAwNUlZak5wNGI4VlI0TWxTalY3RUpYbm42ZHd1TkhSVXNFU0RDUGky)**<br>  - University of Toronto<br>  - Achieved: January  2023
+
+- **[AWS Certified DevOps Engineer - Professional](https://www.credly.com/badges/82d617bf-9f5c-41eb-a824-7dccf0abc1fd/public_url)**<br>  - Amazon Web Services<br>  - Achieved: September 2022
+
+- **[Robotic and Intelligent Process Automation](https://www.credly.com/badges/8f358834-d87d-4cc8-a2a6-d0c3c3e59839/public_url)**<br>  - University of Toronto<br>  - Achieved: June 2022
+
+- **[UiPath Certified Professional Associate RPA Developer](https://credentials.uipath.com/c36bb510-00bd-4ebe-8f7f-9c5f90f1694c#gs.5qv1xz)**<br>  - UiRPA<br>  - Achieved: April 2022
+
+- **[Foundations of DevOps I: Principles and Practices](https://micro-credential.learn.utoronto.ca/check/E64DD02253BB6E9867DA9A2D5CCED979F57B87E1D7C60B142FC25C0A45DCF850Z3gxdXltMld2MnpsRUhoTU1BT2ttQ0ZIWnk3a010cHQvMDVUUTNVME9qdyt6Um1L)**<br>  - University of Toronto<br>  - Achieved: November 2022
+
+- **[Amazon Web Services Developer - Associate](https://www.credly.com/badges/b72624c2-90f9-4fa2-831b-70c67b73e847/public_url)**<br>  - Amazon Web Services<br>  - Achieved: November 2020
+
+- **[Amazon Web Services Solutions Architect - Associate](https://www.credly.com/badges/17dedb1b-3245-4876-adf7-1eaabafb0b48/public_url)**<br>  - Amazon Web Services<br>  - Achieved: November 2020
+
 
 <!--//  TODO - summarize key skills
 ### Skills
