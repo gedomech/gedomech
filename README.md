@@ -68,7 +68,7 @@ Here, you'll find a selection of projects that showcase my expertise in cloud in
 - 🎓 **Bachelor of Science in Biomedical Engineering**<br> - 🏫 ISPJAE <br> - 📅 Graduated: July 2012
 
 <!--//  TODO - add links to the trainings and certifications-->
-## 🏆 Professional Trainings and Certifications
+### 🏆 Professional Trainings and Certifications
 
 - **[Foundations of DevOps III: Tools and Applications]()**<br>  - University of Toronto<br>  - Achieved: September 2023
 
