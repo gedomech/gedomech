@@ -13,8 +13,54 @@ Proficiency in monitoring and alerting systems is another area where I excel. I'
 I bring a high level of expertise in Agile methodologies and cross-functional collaboration. Consistently, my work results in the delivery of high-quality products that surpass customer expectations.
 
 My primary goal is to drive DevOps initiatives, automate processes, and foster a culture of continuous improvement, all in the pursuit of optimizing operations and enhancing system reliability for organizations seeking my expertise.
+<br>
+<br>
 
-### EDUCATION
+## 🔨 Core Tools and Programming Languages:
+[![Core Skills](https://skillicons.dev/icons?i=aws,azure,gcp,py,java,cpp,js,nodejs,powershell,bash,docker,kubernetes,ai,tensorflow,pytorch,ansible,git,prometheus,grafana,jenkins,nginx,mysql,dynamodb,postgres,redis,linux,html,mongodb,maven&perline=15)](https://skillicons.dev)
+<!--//  <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height="42px" src="https://www.python.org/static/img/python-logo-large.c36dccadd999.png?1576869008"></a>
+<a href="https://gomirrors.org" target="_blank"><img align="left" alt="Golang" height="42px" src="/static/golang_icon.svg"></a>
+<a href="https://www.javascript.com/" target="_blank"> <img align="left" alt="JavaScript" height ="42px" src="/static/js_icon.svg"> </a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescript" height="42px" src="/static/ts2_icon.svg"></a>
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height="42px" src="/static/nodejs_icon.svg"></a>
+<a href="https://www.docker.com" target="_blank"><img align="left" alt="Docker" height="42px" src="https://www.docker.com/wp-content/uploads/2022/01/docker-logo-green_0.png"></a>
+<a href="https://www.hyperledger.org/use/fabric" target="_blank"><img align="left" alt="Hyperledger Fabric" height ="42px" src="/static/fabric_icon.png"></a>
+<a href="https://es.vuejs.org" target="_blank"><img align="left" alt="VueJS" height="42px" src="https://es.vuejs.org/images/logo.png"></a>
+<a href="https://aws.amazon.com" target="_blank"><img align="left" alt="NuxtJS" height="42px" src="/static/aws_icon.png"></a>-->
+<br>
+
+## 🛠️ Projects Portfolio
+
+Here, you'll find a selection of projects that showcase my expertise in cloud infrastructure, automation, and more. These projects reflect my commitment to delivering high-quality solutions and my passion for continuous improvement.
+
+### CI/CD Pipeline Implementation
+- **Description:** Designed and implemented a robust CI/CD pipeline for a web application, reducing deployment time by 50% and increasing team productivity by 25%.
+- **Technologies:** Jenkins, Docker, Kubernetes, GitHub Actions
+<!--// - [Repository Link](#) -->
+
+### Infrastructure as Code (IaC) Deployment
+- **Description:** Developed and maintained infrastructure as code (IaC) scripts using Terraform and Ansible, resulting in a 40% reduction in manual configuration errors and improved system reliability.
+- **Technologies:** Terraform, Ansible, AWS, Azure
+
+### Cloud Security and Compliance
+- **Description:** Conducted a comprehensive security audit of AWS infrastructure, identified vulnerabilities, and implemented security best practices, achieving a 100% compliance score in the next security audit.
+- **Technologies:** AWS, Security Groups, AWS Config
+
+### End-to-End Data Analytics Framework
+- **Description:** Developed an end-to-end data analytics framework using Amazon Redshift, Glue, and Lambda, enabling the business to obtain KPIs faster with reduced costs.
+- **Technologies:** Amazon Redshift, AWS Glue, AWS Lambda
+
+### Multi-Cloud Management
+- **Description:** Managed and optimized multi-cloud environments, including AWS and Azure, to ensure cost-efficiency and high availability.
+- **Technologies:** AWS, Azure, Multi-Cloud Management Tools
+
+### Agile Process Implementation
+- **Description:** Implemented Agile methodologies and cross-functional collaboration, resulting in faster project delivery times, increased team productivity, and exceeding customer expectations.
+- **Technologies:** Agile Practices, Scrum, Kanban
+
+<!--//  I'm passionate about DevOps and continuously seek ways to enhance system reliability, reduce downtime, and streamline processes. Feel free to explore these projects to get a sense of my skills and capabilities. If you have any questions or would like to collaborate, please reach out to me at [your@email.com].-->
+
+## EDUCATION
 
 **MASTER OF SCIENCE (M.Sc.), ELECTRICAL ENGINEERING**
 
@@ -39,7 +85,7 @@ _Technological University Jose Antonio Echeverria (CUJAE), 2012.
 * [Robotic and Intelligent Process Automation (University of Toronto)](https://www.credly.com/badges/8f358834-d87d-4cc8-a2a6-d0c3c3e59839/public_url)
 * [UiPath Certified Professional Associate RPA Developer (UiRPA)](https://credentials.uipath.com/c36bb510-00bd-4ebe-8f7f-9c5f90f1694c#gs.5qv1xz)
 
-<!--//  TODO - summarize key skills -->
+<!--//  TODO - summarize key skills
 ### Skills
 
 * **Languages**: English, French, Portuguese and Spanish
@@ -51,53 +97,6 @@ _Technological University Jose Antonio Echeverria (CUJAE), 2012.
 * **NetSysAdmin**: AD, LAN/WAN, TCP/IP, TLS, Okta, iboss, Check Point Firewall,  Cisco Meraki,  MDM (Jamf Pro)
 * **CI/CD Tools**: Jira/Confluence, Git, Maven, Junit, Terraform, Ansible, Docker, K8, Jenkins, ELK, CodeDeploy, Kustomize, Flux
 <!--//  **Core Competencies**: Agile, GitOps, DataOps, AIOps, DevSecOps, MLOps, IaC, Configuration Management, IaaS-->
-
-### 🔨 Core Tools and Programming Languages:
-[![Core Skills](https://skillicons.dev/icons?i=aws,azure,gcp,py,java,cpp,js,nodejs,powershell,bash,docker,kubernetes,ai,tensorflow,pytorch,ansible,git,prometheus,grafana,jenkins,nginx,mysql,dynamodb,postgres,redis,linux,html,mongodb,maven&perline=15)](https://skillicons.dev)
-<!--//  <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height="42px" src="https://www.python.org/static/img/python-logo-large.c36dccadd999.png?1576869008"></a>
-<a href="https://gomirrors.org" target="_blank"><img align="left" alt="Golang" height="42px" src="/static/golang_icon.svg"></a>
-<a href="https://www.javascript.com/" target="_blank"> <img align="left" alt="JavaScript" height ="42px" src="/static/js_icon.svg"> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescript" height="42px" src="/static/ts2_icon.svg"></a>
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height="42px" src="/static/nodejs_icon.svg"></a>
-<a href="https://www.docker.com" target="_blank"><img align="left" alt="Docker" height="42px" src="https://www.docker.com/wp-content/uploads/2022/01/docker-logo-green_0.png"></a>
-<a href="https://www.hyperledger.org/use/fabric" target="_blank"><img align="left" alt="Hyperledger Fabric" height ="42px" src="/static/fabric_icon.png"></a>
-<a href="https://es.vuejs.org" target="_blank"><img align="left" alt="VueJS" height="42px" src="https://es.vuejs.org/images/logo.png"></a>
-<a href="https://aws.amazon.com" target="_blank"><img align="left" alt="NuxtJS" height="42px" src="/static/aws_icon.png"></a>-->
-<br>
-<br>
-<br>
-
-# DevOps Portfolio
-
-Welcome to my DevOps portfolio! Here, you'll find a selection of projects that showcase my expertise in cloud infrastructure, automation, and more. These projects reflect my commitment to delivering high-quality solutions and my passion for continuous improvement.
-
-## Project 1: CI/CD Pipeline Implementation
-- **Description:** Designed and implemented a robust CI/CD pipeline for a web application, reducing deployment time by 50% and increasing team productivity by 25%.
-- **Technologies:** Jenkins, Docker, Kubernetes, GitHub Actions
-<!--// - [Repository Link](#) -->
-
-## Project 2: Infrastructure as Code (IaC) Deployment
-- **Description:** Developed and maintained infrastructure as code (IaC) scripts using Terraform and Ansible, resulting in a 40% reduction in manual configuration errors and improved system reliability.
-- **Technologies:** Terraform, Ansible, AWS, Azure
-
-## Project 3: Cloud Security and Compliance
-- **Description:** Conducted a comprehensive security audit of AWS infrastructure, identified vulnerabilities, and implemented security best practices, achieving a 100% compliance score in the next security audit.
-- **Technologies:** AWS, Security Groups, AWS Config
-
-## Project 4: End-to-End Data Analytics Framework
-- **Description:** Developed an end-to-end data analytics framework using Amazon Redshift, Glue, and Lambda, enabling the business to obtain KPIs faster with reduced costs.
-- **Technologies:** Amazon Redshift, AWS Glue, AWS Lambda
-
-## Project 5: Multi-Cloud Management
-- **Description:** Managed and optimized multi-cloud environments, including AWS and Azure, to ensure cost-efficiency and high availability.
-- **Technologies:** AWS, Azure, Multi-Cloud Management Tools
-
-## Project 6: Agile Process Implementation
-- **Description:** Implemented Agile methodologies and cross-functional collaboration, resulting in faster project delivery times, increased team productivity, and exceeding customer expectations.
-- **Technologies:** Agile Practices, Scrum, Kanban
-
-<!--//  I'm passionate about DevOps and continuously seek ways to enhance system reliability, reduce downtime, and streamline processes. Feel free to explore these projects to get a sense of my skills and capabilities. If you have any questions or would like to collaborate, please reach out to me at [your@email.com].-->
-
 
 ## 📊 GitHub Stats
 
