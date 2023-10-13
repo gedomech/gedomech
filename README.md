@@ -60,17 +60,15 @@ Here, you'll find a selection of projects that showcase my expertise in cloud in
 
 <!--//  I'm passionate about DevOps and continuously seek ways to enhance system reliability, reduce downtime, and streamline processes. Feel free to explore these projects to get a sense of my skills and capabilities. If you have any questions or would like to collaborate, please reach out to me at [your@email.com].-->
 
-## EDUCATION
+## 📚 EDUCATION
 
-**MASTER OF SCIENCE (M.Sc.), ELECTRICAL ENGINEERING**
+- 🎓 **Master of Science in Electrical Engineering**
+  - 🏫 PUC-Rio
+  - 📅 Graduated: August 2018
 
-_Artificial Intelligence and Machine Learning Specialization, PUC-Rio, 2018.
-<!--Pontifical Catholic University of Rio de Janeiro ()-->
-
-
-**BACHELOR OF SCIENCE (B.S.), BIOMEDICAL ENGINEERING**
-
-_Technological University Jose Antonio Echeverria (CUJAE), 2012.
+- 🎓 **Bachelor of Science in Biomedical Engineering**
+  - 🏫 ISPJAE
+  - 📅 Graduated: July 2012
 
 <!--//  TODO - add links to the trainings and certifications-->
 **PROFESSIONAL TRAININGS AND CERTIFICATIONS**
